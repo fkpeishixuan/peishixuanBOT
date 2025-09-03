@@ -1,15 +1,16 @@
-It is a goddamn bot to fk a stupid ass 裴仕璇
+# peishixuanBOT
 
-## HOW to use
-
-```shell
-// create py env (takeoff your pants to fk psx's mom)
+```bash
+# takeoff psx's mom's pants
 python3.13 -m venv .venv
-// install dependencies (take peishixuan's mom's pants off)
 
-// starts to fuck
+# takeoff your pants
+pip install -r requirements.txt
+
+# starts to fuck
 export BOT_TOKEN="你的BotToken"
-export REVIEW_GROUP_ID="-100xxxxxxxxxx"      # 审稿群ID（负数）
-export TARGET_CHANNEL_ID="-100yyyyyyyyyy"    # 或者 "@your_channel_username"
+export REVIEW_GROUP_ID="-100xxxxxxxxxx"     # 审稿群ID (负数)
+export TARGET_CHANNEL_ID="-100yyyyyyyyyy"   # 或者 "@your_channel_username"
+
+# feels good my bruh
 python main.py
-```
